@@ -1,13 +1,6 @@
 
 /***
 
- My code has passed all tests in codePost except addStop and shortestPath.
- This is not due to timeout but due to duplicate nodes in test files.
- See: Piazza @37_f24    https://piazza.com/class/kl6enjcfz7cud?cid=37_f24
-
- When I remove the duplicate nodes in those test files, my code passed those tests in IntelliJ IDE.
-
-
  Mehmet Giray Nacakci / 21989009 / BBM204 Spring2021
 
  */
