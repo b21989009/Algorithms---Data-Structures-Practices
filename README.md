@@ -1,2 +1,2 @@
-# Algorithms---Data-Structures-Practices
+# Algorithms-Data-Structures-Practices
 Snippets from assignments
